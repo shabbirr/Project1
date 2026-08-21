@@ -1,0 +1,6 @@
+{
+  "name": "MetricMind — Conversational BI & Analytics Platform",
+  "description": "Agentic conversational BI and real-time analytics dashboard with governed semantic metrics, interactive charts, period comparisons, root-cause driver analysis, audit logging, RBAC, and PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
